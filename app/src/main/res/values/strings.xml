@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name ="start_message">Input your guess in the field below. All possible answers are whole integers between 0 and 100</string>
+    <string name="too_high">Too High</string>
+    <string name="too_low">Too Low</string>
+    <string name="out_of_range" >Out of the number range. Please Select a number between 0 - 100</string>
+    <string name="invalid_input">Invalid input. Please select a whole interger. /*object must be int," +
+                    " do not enter float, double, long, byte, char, String, boolean, or other data type</string>
+
+</resources>
